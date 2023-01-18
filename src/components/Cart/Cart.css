@@ -1,0 +1,13 @@
+.orderStyle{
+    display: flex;
+}
+.orderStyle Span1{
+    width:70%;
+}
+.review-btn{
+    width: 100%;
+    background-color: orange;
+    height:25px;
+    border-radius: 5px;
+    border: 1px solid rgb(141, 138, 138);
+}
